@@ -1,6 +1,9 @@
 * {
     box-sizing: border-box;
 }
+body {
+    background: white;
+}
 
 ul{
     margin: 0;
